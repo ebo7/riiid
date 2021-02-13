@@ -1,1 +1,1 @@
-# explord kaggle (RIIID)
+RIIID kaggle competition entry
